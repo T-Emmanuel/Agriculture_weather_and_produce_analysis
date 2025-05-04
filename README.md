@@ -7,6 +7,9 @@ This analysis explores impact of weather on particular regions and agricultural 
 
 Genesys upskill cohort 2 group challange project. AGRICUTRE DATA SETS.
 
+# INSTRUCTIONS
+[INSTRUCTIONS](https://drive.google.com/file/d/1mHgTqcThtS2CQ6yd6VTnBhTdM-LfDA3o/view?usp=sharing)
+
 # DATASETS
 [Agriculture_Weather_Data.csv](https://github.com/user-attachments/files/20027541/Agriculture_Weather_Data.csv)
 
