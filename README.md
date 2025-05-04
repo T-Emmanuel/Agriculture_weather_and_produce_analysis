@@ -1,1 +1,18 @@
 # Agriculture_weather_and_produce_analysis
+
+# OVERVIEW
+This analysis explores impact of weather on particular regions and agricultural produce. However it  also emcompasses the revenues from each crop and their various quantitites produced in kilogram in the Northern, Southern,Weatern, and Eastern regions. The quantity of rainfall and temperature trends for each region and various months were also revealed.
+
+# SOURCE OF DATA
+
+Genesys upskill cohort 2 group challange project. AGRICUTRE DATA SETS.
+
+# DATASETS
+[Agriculture_Weather_Data.csv](https://github.com/user-attachments/files/20027541/Agriculture_Weather_Data.csv)
+
+
+[Agriculture_Data.csv](https://github.com/user-attachments/files/20027540/Agriculture_Data.csv)
+
+# TOOLS USED
+EXCEL/GOOGLE SHEETS
+
