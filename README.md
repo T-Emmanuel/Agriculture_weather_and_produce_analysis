@@ -5,7 +5,7 @@ This analysis explores impact of weather on particular regions and agricultural 
 
 # SOURCE OF DATA
 
-Genesys upskill cohort 2 group challange project. AGRICUTRE DATA SETS.
+Genesys upskill cohort 2 (2024) group challange project. AGRICUTRE DATA SETS.
 
 # INSTRUCTIONS
 [INSTRUCTIONS](https://drive.google.com/file/d/1mHgTqcThtS2CQ6yd6VTnBhTdM-LfDA3o/view?usp=sharing)
