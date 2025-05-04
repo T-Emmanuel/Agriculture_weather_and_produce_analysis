@@ -16,3 +16,8 @@ Genesys upskill cohort 2 group challange project. AGRICUTRE DATA SETS.
 # TOOLS USED
 EXCEL/GOOGLE SHEETS
 
+# LINK TO PRESENTAION
+[presentation](https://docs.google.com/presentation/d/1NPI3zpY93WF601-CZCnrJ0vt0FcX02fT4TbCM66xKaw/edit?usp=sharing)
+
+
+
